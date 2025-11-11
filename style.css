@@ -1,0 +1,23 @@
+/* Styles pour le CV */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    line-height: 1.6;
+}
+
+section {
+    margin-bottom: 30px;
+    padding: 15px;
+    border-left: 3px solid #007acc;
+}
+
+h1 {
+    color: #333;
+    border-bottom: 2px solid #007acc;
+    padding-bottom: 10px;
+}
+
+h2 {
+    color: #007acc;
+}
